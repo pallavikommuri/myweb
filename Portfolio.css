@@ -1,0 +1,76 @@
+li{
+float: left;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(10, 10, 10, 0.733);
+}
+li a{
+    display: block;
+    color: rgb(221, 18, 18);
+    padding: 25px;
+    text-decoration: none;
+}
+.Image{
+    width: 90px;
+    height: 90px;
+    margin-left: -33px;
+}
+.text{
+    position:absolute;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    top: 80%;
+    left: 30%;
+}
+.logo{
+    color: brown;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.lab{
+    border-radius: 10px;
+    border-color: maroon;
+    margin-left: 600px;
+    color: rgb(221, 18, 18) ;
+    
+}
+.footer{
+    background-color: black;
+
+}
+.icons{
+    text-align: center;
+}
+.ficon{
+    color: white;
+    margin:20px;
+}
+.Copy{
+    color: white;
+    text-align: center;
+}
+.bimg{
+    
+    height: 10px;
+    width: 10px;
+}
+.aban{
+    width: 30px;
+    height: 30px;
+}
+.gmail{
+    color: white;
+    margin-top: 20px;
+    float: right;
+    margin-right: 50px;
+}
+.btext{
+
+}
